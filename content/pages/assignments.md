@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains response papers, exemplary response papers and
+  leading discussion.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
